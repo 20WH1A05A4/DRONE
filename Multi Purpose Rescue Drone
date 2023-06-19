@@ -1,0 +1,39 @@
+1.Problem Statement:
+      •	Delivering the medicines or organs on time.We see many people loosing their lives as the medicines are not delivered on time this is because 
+      of road delivery and traffic on roads.
+      •	Fire men loosing  their lives without proper information.We have experienced a case in Hyderabad that a firemen lost his life as he don't know 
+      where people were struck so attempted to go inside and  lost their life.
+      •	The requirements are not reaching people near disaster areas.We see like in disaster areas people don't have proper food or any requirements the 
+      rescue team has overcame it by delivering them by helicopter but it's very expensive for the government.
+2.Validation of the problem through data collection and analysis:
+      •	Suppose a person had an accident he needs blood immediately but we need to get the blood from blood banks which is far away in this situation if 
+      we delivery blood by road it takes lot of time if the roads are blocked it will be a disturbance for the common people who are traveling.
+      •	Many fire men are not having the proper information about the fire spot it is difficult for them to rescue the people who got struck.
+      •	During Kerala floods the rescue team delivered the food and requirements of the people there with help of helicopter but through helicopter it was
+      too expensive and they were not able deliver each and every place
+3.Idea and Concept:
+      •	To decrease in delay of organs or medicines We came with the solution that is delivering all the medical requirements which will be sustaining in
+      certain temperature and not available in nearby places through drone. Where there will be no traffic created and fast supply of the goods.  
+      •	We will be attaching a fire extinguisher to the drone which will be spraying in the smaller areas and enter the fire spot and it will be attached 
+      with the thermal camera which gives the information about the people who got struck and also a gas sensor where we get information about the different 
+      gases released due to fire accidents.
+      •	The parachute box is the good way to delivery the requirements to the people at disaster times. As the road ways will not be so clear to travel and
+      it is difficult to supply. Airways is the better option for the supply to decrease the burden for the government we can supply through drones. And 
+      we attach a loud speaker to that for giving the instructions for the people
+4.Project description and High level design:
+      • We have designed a low cost multi-purpose drone with an payload capacity of 20kg with changeable modes like fridge, air tight box and food dropper etc.…
+      It is loaded with inbuilt gas sensor, ultrasonic sensor, communication module, ultra-wide and infrared thermal cameras etc. and have Ground Control Stations 
+      (GCS) and mobile application for external use which can provide assistance in medical emergencies, search and rescue operations
+5.Project Benefits:
+      • Multiple purpose • Multi-Tasking • Mini temperature adjustable fridge. •Air lock box • Rescue drone works without internet to transfer the data from
+      speaker, gas sensor and fire sensor •Gas sensor in drone 
+      Coming to our product feature and benefits, it has changeable mods and light weight. It is weather proof in nature
+      •	The Incident and Emergency Management Market was valued at USD 98.32 billion in 2022 and is expected to reach USD 150.2 billion by 2026, with a
+      CAGR of 6.03% during the forecast period (2023-2026).
+      •	The demand for emergency and disaster management was USD 21.3 billion in 2022 and expected to reach USD 35.2 billion by 2025.
+  •	Market Strategy:
+      •	Demonstrating the videos of our product in social media.
+      •	Advertising our product.
+      •	Awareness program about technology and drones.
+      •	Approaching directly to
+      •	Government for rescue and emergency services
